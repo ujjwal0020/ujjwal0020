@@ -24,6 +24,7 @@
 <h3 align="center">Github Stats📊</h3>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwal0020&show_icons=true&locale=en&layout=compact" alt="ujjwal0020" /></p>
+
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ujjwal0020&show_icons=true&locale=en" alt="ujjwal0020" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwal0020&" alt="ujjwal0020" /></p>
